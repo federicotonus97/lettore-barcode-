@@ -1,1 +1,1 @@
-# lettore-barcode-
+Con questo progetto vorrei realizzare un app che legge i barcode e che crei una lista dei barcode letti, faccia la somma dei prezzi degli articoli con i barcode letti in precedenza, volta finito l'elenco si interfacci con una tessera assocciata al telefono e che ne scali il totale.
